@@ -12,4 +12,4 @@ A Growth Mindset is ones ability to
 
 ![hang in there cat](https://pacificjules.typepad.com/.a/6a0133ed6f68df970b01bb08693589970d-800wi)
 
-[readingnotes] (https://dfortune213.github.io/reading-notes/)
+[readingnotes](https://dfortune213.github.io/reading-notes/)
